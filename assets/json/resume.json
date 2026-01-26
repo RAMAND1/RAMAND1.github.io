@@ -1,26 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Raman Dhiman",
+    "label": "Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "raman@utexas.edu",
+    "summary": "A chemical engineer, working on the intersection of membrane science, biophysics, and neuromorphic computing.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "4.164, 200 E Dean Keeton St",
+      "postalCode": "78712",
+      "city": "Austin",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Texas"
+    }
   },
   "work": [
     {
