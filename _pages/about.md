@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 nav: false
-subtitle: 
+subtitle: Ph.D. Candidate, Chemical Engineering, UT Austin
 
 profile:
   align: right
