@@ -1,0 +1,5 @@
+/* Justify paragraph text on pages */
+.page__content p {
+  text-align: justify;
+  hyphens: auto;
+}
