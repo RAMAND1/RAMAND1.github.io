@@ -18,19 +18,19 @@
       "name": "The University of Texas at Austin",
       "position": "Graduate Research Assistant",
       "startDate": "Aug 2022",
-      "endDate": "Present",
+      "endDate": "Present"
     },
     {
       "name": "Indian Institute of Technology Gandhinagar",
       "position": "Junior Research Fellow",
       "startDate": "Mar 2021",
-      "endDate": "May 2022",
+      "endDate": "May 2022"
     },
     {
       "name": "Dai-ichi Karkaria India",
       "position": "Management Trainee",
       "startDate": "Sep 2020",
-      "endDate": "Feb 2021",
+      "endDate": "Feb 2021"
     }
   ],
 
@@ -43,7 +43,7 @@
       "studyType": "PhD",
       "startDate": "Aug 2022",
       "endDate": "Aug 2027",
-      "Grade": "4.0/4.0",
+      "Grade": "4.0/4.0"
     },
     {
       "institution": "Indian Institute of Technology Gandhinagar",
@@ -53,7 +53,7 @@
       "studyType": "B.Tech",
       "startDate": "July 2016",
       "endDate": "Aug 2020",
-      "Grade": "9.17/10.00",
+      "Grade": "9.17/10.00"
     }
   ],
   
@@ -61,7 +61,7 @@
     {
       "title": "Institute Silver Medal, Chemical Engineering, IIT Gandhinagar",
       "date": "Aug 2020",
-      "awarder": "Indian Institute of Technology Gandhinagar",
+      "awarder": "Indian Institute of Technology Gandhinagar"
     }
   ]
 }
