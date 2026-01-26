@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching Assistant Work
 nav_title: TA
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 I have served as a teaching assistant for three courses during my graduate tenure at The University of Texas at Austin:
