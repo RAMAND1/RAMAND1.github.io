@@ -82,10 +82,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # --- Google Analytics ---
 google_analytics: G-KR93LMCVDD   # <-- REQUIRED for your theme
-
-analytics:
-  google:
-    measurement_id: G-KR93LMCVDD
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
